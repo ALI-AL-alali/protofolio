@@ -49,7 +49,7 @@ class SkillsSection extends StatelessWidget {
     ),
     Skill(
       name: 'C#',
-      iconPath: 'assets/icons/c#.png',
+      iconPath: 'assets/icons/c.png',
       level: 0.75,
       color: Colors.purpleAccent,
     ),
